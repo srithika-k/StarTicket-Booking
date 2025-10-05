@@ -1,6 +1,6 @@
 // Redirect if not logged in
 if (localStorage.getItem("login") !== "true") {
-  window.location.href = "../login/index.html";
+  window.location.href = "./../login/index.html";
 }
 
 // Display logged-in username

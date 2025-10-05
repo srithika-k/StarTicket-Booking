@@ -1,0 +1,30 @@
+{
+    "TopPick":{
+        "title":"StangerThings Season5 ",
+        "subtitle":"Trending Now!",
+        "image":"StangerThings season5.jpg",
+        "buttonText":"Watch Now"
+        
+    },
+
+    "recommended":[
+        {
+            "title":"FightClub",
+            "image":"FightClub.jpg"
+        },
+        {
+            "title":"Meet Joe Black",
+            "image":"Meet Joe Black.jpg"
+        },
+        {
+            "title":"American psycho",
+            "image":"American psycho.jpg"
+        },
+        {
+            "title":"PeakyBlinders",
+            "image":"PeakyBlinders.jpg"
+        }
+    ]
+
+    
+}
